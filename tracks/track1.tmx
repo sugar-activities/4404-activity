@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="16" height="100" tilewidth="75" tileheight="75">
+ <tileset firstgid="1" name="enemies" tilewidth="75" tileheight="75">
+  <image source="tilesets/enemys.png"/>
+ </tileset>
+ <tileset firstgid="7" name="goals" tilewidth="75" tileheight="75">
+  <image source="tilesets/goals.png"/>
+ </tileset>
+ <tileset firstgid="11" name="navegable" tilewidth="75" tileheight="75">
+  <image source="tilesets/navegable.png"/>
+ </tileset>
+ <tileset firstgid="41" name="nonavegable" tilewidth="75" tileheight="75">
+  <image source="tilesets/nonavegable.png"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="16" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC61Y22rbQBAdAkICN2AX6tYPCcV+6oVesB1btttCCbR9Sh6S//+V7oIGnxzNrEYkDwcn0p45c9PuSD9E5CfhPuF1wvsO04Q7Y92vhN8Ja8Ktwc/rNoRbh/9o8B+C/FnCu4S3wH+TsOjulfgWt2QD+cvunvq9Sqi7vyuIY9atZf6M+BamsG6IXwGvGeDrtTag3xb4GVcJrxIugTfprl3TWuV/SPgI15edH5q/KeR3BuuV/yXhq5zrN5d+/fM1rZ+uZ/+92qMdy3+PW0EdGrCxIP7Ryfsu4capA+tbffcp4fNIPuJbwvdn8G+6GDT+FfC3xLf6BvOXwX3E/aN9w36g30vx+ydS/4XY/YNcrfUE4qnJBvpv6U66OK8oJ2hD+VbMOdaj+L01DfK3QX5l3M/cg8GvCvoN8dH/Wsb7/5z4TyPit+JDfSs/yK+N+wdHvwn6z/kbG/+Y/HF82qPevljSxx6wah/xn/lj4q+Iz7FZ/MZZY+nXAf9Lz38kfu3fU+H+UP3m0j9LVxKr344QqZ+eD3pu8W80fj23+NfjWznege6O7mlt+PxCGzXoNgaXz88LwwbHrdwL8ecntIFxo653/uXZzjpDV3I+O1vx56fsFz7vtTyde+bgO8fPZ6j2AsM6P/fS32e43xrDxtD84kHzoXydm9HnrI/14/0B+Vb/ZHjzF/ef1hNtePFb/af1PDp+sC73j/6f+d4MpVyrf0rzV2Posn4r/b5jXZz7WX/IZ+1tT59rr9A5Wdd7+ppzq0fQb0/f6198VjDvrN+KX3e04elb/aeopT83e/W39kD2oy3ol/xAG54+7oORfHj6UT88fXyftXqD9x9Pv/ROi3xPf+i58PRLuqX9J6rr1Z/3AUUtT8/OMfuPpWs9f8rlZ/gl9h+vvpH5EeP19L33E083oj8t6Fr6fHaW9h3Wjz7vnr53/qIN/O6zF/v5H7Khs89B7P6P+hHd/7gXo/tfxI895Y9xCthQ/obyyt8Tsw080/n9I/Nb4Gzl/B0xsv9tDBuRPYz5aEO52Nc4y6wd/ga4PMNNOtvrAX7pnZe/0780H7/lMa4H+Jq7e+n3wZ2c5xjk/0n4S3g0+A/Gun8J/wGV1RG1ABkAAA==
+  </data>
+ </layer>
+</map>

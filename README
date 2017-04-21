@@ -1,0 +1,68 @@
+Quwy - Math Cuy
+Version 1.0
+README
+============================================================================
+
+CONTENTS:
+----------------------------------------------------------------------------
+1-About Quwy
+2-Credits
+3-Contact
+
+============================================================================
+
+ABOUT QUWY:
+===========
+This activity contribute to children learn mathematics using the OLPC - XO.
+
+This game basically consists en two games inside the activity.
+
+First Game: The children learn to differenciate between odd and even
+numbers.
+
+Second Game:The children learn basic mathematic operations like add,
+substract, multiply and count.
+
+This activity was developed by Mateu Batle and Ricardo Flores who work 
+at the Faculty of Engineering and Architecture of the University of San 
+Martin de Porres (USMP - FIA) in Lima, Perú.
+
+
+CREDITS:
+========
+
+Programming:
+
+- Mateu Batle
+- Ricardo Flores
+- Taller de Investigación Aplicada - EPICS - USMP - FIA
+
+Sounds:
+
+-Even and Odd numbers: USMP - FIA
+-Add Game, Substract Game, Multiply Game and Count Game: Background sound from
+the Falabrac activity.
+
+Images:
+
+- USMP - FIA (Grafimedia)
+
+Notes:
+
+- This activiy use the following libraries jmenu, ktextsurfacewriter and 
+txtlib.
+
+- Maps on the Odd Numbers and Even Numbers game were created using MapEditor.
+
+- Add Game, Substract Game, Multiply Game and Count Game: Based on the dodger game.
+
+
+
+
+CONTACT:
+========
+
+You can contact us at:
+
+ricardosfs [at] ymail [dot] com
+mbatle [at] gmail [dot] com

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="16" height="100" tilewidth="75" tileheight="75">
+ <tileset firstgid="1" name="navegable" tilewidth="75" tileheight="75">
+  <image source="tilesets/navegable.png"/>
+ </tileset>
+ <tileset firstgid="56" name="nonavegable" tilewidth="75" tileheight="75">
+  <image source="tilesets/nonavegable.png"/>
+ </tileset>
+ <tileset firstgid="74" name="goals" tilewidth="75" tileheight="75">
+  <image source="tilesets/goals.png"/>
+ </tileset>
+ <tileset firstgid="78" name="enemys" tilewidth="75" tileheight="75">
+  <image source="tilesets/enemys.png"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="16" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC7WYW0/bQBCF96EoatUHigQNhUILNaUtfWgeoPcG5SICcRLR//9fuivmKCcns2sD6sORZXs+z95mZteHIYQ3prdRP6N+RR3K8x2TPn8XNYwaRZ1E/Y76Y89H9i49v466cezV7tKkdsyzvdoxz3Zov9qfR302nUbtmc4Kzz+aLux7X6O+2XeTOlGVI7yHPdr/PepH1KAFPyD7E/HP/CxqapoLX/KfVBML1fSe/fP4QRdO23N2yf8iamwambz+VzSnPP8jY2GzGfWCtEV9wrUiXn1sh2UcpHX3Uti6BY84uI16Km2phMcY4/mrsFxvrA1rSxOPMexYW2v67n6Br0k6/2ozLfDHpC9yD3m8p/c030NpWxv+nMbjKsN3HqgTp3+9e/Icv/2og8K4c15gHvFYG++Nd494jX/cJz7FZModc7PHO2635h/ce+3Gu05YXyfgZ2E9PjlOuc9du/aDP/+6dpWHxsSX1ntu7pjP5aqSPH7YUpX0H21K746iXoe79Z5i54Duj1rwYJg/pfsm/ozsz4yv6B71Kce37X/t8KU8oHPKPMa/LZ/zz32YOeJ16PmvbI68+D22eawc/92wPgZ18PO5lz8Q43jXNw3Datua8g/eDYjXWsx1sOR/EJa1FHu3VEvT3u5JuKtjnn/194z4HWK5/vG6Sv4mYVn/L4lN+0/U37nwm+Tvb1jW/2sT++5Y/5jfNjvsX69Ficc+Io3dWHjdM2xQH3apD5fWB14/o7C6Z+iE1T3MjsjjF8KjPRs2HhPr/x6NQck/cj3mY2J+vfqJNe7laR6X/Qx/n5o/J7F/tmnKH1r/tP1ae7DnxVX5pjb/bz6XYxHXuSvzeMY84jp3ZV73INoHLyfy+Kt/bw+g3wC/IP8pLjnna1u8+W8ap9w3NP/lrl5sMI9zI2JQz4neeM6I93L8VsG/zj9yH4RYz/nX+Qd/I/x9/N+S/13ju5k5VP/eeY3PWU3+544P3a+W/Ou6Zum64fNKL+TPZz2nTTiPXYXV89PIxor3aAcFXs+Po7Aab4/lpwWe9VBe54//SZT4vtno/HH9K/GYU/U/dtpfyoPqf+zY5cQ1TPdPyCFtv+Odn3PK8chfEMZY58OT8t1QPgtO5b3yXBtLY5fj+wW+tH/AergSviqwXv3gfMv7fo9fhPX6zzVYz7u5HMO81mD9RlP/4X+e+UYufrT/uXbU9m2Nn/RsFtbrrvKl/Y83P8qX9j+ldcr/BYeP8I/4Vv+8N8RV141nk/gPYfk/nfUp6rkpZ5P+VU0KwnmlZPMPO1fVBwAZAAA=
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,7 @@
+[Activity]
+name = Math Quwy
+activity_version = 1
+host_version = 1
+service_name = org.laptop.community.mathquwy
+icon = activity
+exec = sugar-activity activity.Activity
